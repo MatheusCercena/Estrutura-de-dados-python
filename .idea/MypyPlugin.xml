@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="MypySettings">
-    <option name="arguments" value=" " />
-    <option name="configFilePath" value="C:\Users\user01\Downloads\Estrutura+de+Dados+e+Algoritmos+com+Python\Estrutura de Dados e Algoritmos com Python\mypy.ini" />
     <option name="projectDirectory" value="$PROJECT_DIR$" />
   </component>
 </project>
