@@ -32,5 +32,3 @@ class Stack:
         else:
             return self.__elements[self.__pointer]
 
-
-

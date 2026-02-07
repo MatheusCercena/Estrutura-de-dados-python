@@ -5,24 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="294b46e3-0ebb-4071-8389-e83a358d531b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Estrutura+de+Dados+e+Algoritmos+com+Python.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/MypyPlugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MypyPlugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados e Algoritmos com Python/algorith_complexity/big_o_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados e Algoritmos com Python/algorith_complexity/big_o_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados e Algoritmos com Python/algorith_complexity/big_o_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados e Algoritmos com Python/algorith_complexity/big_o_4_funcoes_exemplo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados e Algoritmos com Python/algorith_complexity/big_o_tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados e Algoritmos com Python/mypy.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados e Algoritmos com Python/pilhas_filas_e_deques/expression_validator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados e Algoritmos com Python/pilhas_filas_e_deques/queue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados e Algoritmos com Python/pilhas_filas_e_deques/stack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados e Algoritmos com Python/vectors/binary_search.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados e Algoritmos com Python/vectors/binary_search2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados e Algoritmos com Python/vectors/ordered_vector.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura de Dados e Algoritmos com Python/vectors/unnordered_vector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stacks_queues_deques/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/stacks_queues_deques/queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stacks_queues_deques/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/stacks_queues_deques/stack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +19,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="39K9Av7zgBYHIh9alT0wRmQQtxV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,13 +38,14 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/user01/Documents/coding-projects/Estrutura-de-Dados-e-Algoritmos-com-Python",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "works.szabope.plugins.mypy.configurable.MypyConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -77,6 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1770433758938</updated>
       <workItem from="1770433761049" duration="568000" />
+      <workItem from="1770434355561" duration="424000" />
+      <workItem from="1770499112970" duration="4790000" />
     </task>
     <servers />
   </component>
@@ -85,6 +75,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Estrutura_de_Dados_e_Algoritmos_com_Python$expression_validator.coverage" NAME="expression_validator Coverage Results" MODIFIED="1770434276690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stacks_queues_deques" />
-    <SUITE FILE_PATH="coverage/Estrutura_de_Dados_e_Algoritmos_com_Python$stack.coverage" NAME="stack Coverage Results" MODIFIED="1770434281006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stacks_queues_deques" />
+    <SUITE FILE_PATH="coverage/Estrutura_de_Dados_e_Algoritmos_com_Python$stack.coverage" NAME="stack Coverage Results" MODIFIED="1770434506768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stacks_queues_deques" />
   </component>
 </project>
